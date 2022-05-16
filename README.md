@@ -2,14 +2,15 @@
 Arduino/ESP32 Sketch for a CC101 Receiver 868.3MHz to Decode Weather Data of a Bresser 5in1 Weather Station(2022)
 
 This Demo outputs the captured Weather station Values of a Bresser 5in1 Station that I found cheap on ebay
-Currently supported:
+
+Currently supported values:
 - Temp
 - Humidity
 - Rain
 - Winddirection
 - Windspeed
 
-Link to Weatherstation-Product:
+Link to Weatherstation-Product: (might be compatible to 6in1 as well)
 https://www.ebay.de/itm/294905798218
 
 Link to 868 MHz reciever:
