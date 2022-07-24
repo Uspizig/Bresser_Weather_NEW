@@ -1,0 +1,24 @@
+Comment,Designator,Footprint, LCSC
+Antenna_Shield,A1,RF_Antenna:Texas_SWRA117D_2.4GHz_Left,
+Antenna_Shield,AE1,Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical,
+Jumper_2_Open,B1,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,
+1uF,C11,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C15849
+100nF,"C4,C1",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C1525
+1.2pF,C7,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1639
+1.5pF,C8,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1639
+WS2812B,"D3,D8",LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,
+DIODE,"D5,D6,D7,D2",Diode_SMD:D_SOD-123,
+LED,"D9,TX1,RX1",LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C2290
+Conn_01x06_Female,J1,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,
+Conn_01x03_male,J2,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical_SMD_Pin1Right,
+Conn_01x08_Female,J3,Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical_SMD_Pin1Right,
+2.7nH,L6,Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C83929
+2K,R1,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C4109
+0R,"R2,R4",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C21189
+10K,R3,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C25744
+10K,"R5,R6",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C25744
+2K,"R7,R8",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C4109
+10K,R9,Resistor_SMD:R_0603_1608Metric,C25804
+RFM95W-868S2,RFM95,RF_Module:HOPERF_RFM9XW_SMD,
+RT9013-33,U1,Package_TO_SOT_SMD:SOT-23-5_HandSoldering,
+ESP32-PICO-D4,U2,Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm,C193707
